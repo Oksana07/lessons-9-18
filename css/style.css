@@ -1,4 +1,41 @@
-body{
-    /* font-family: 'Raleway', sans-serif; */
-    font-family: 'Roboto', sans-serif;
+body {
+  /* font-family: 'Raleway', sans-serif; */
+  font-family: "Roboto", sans-serif;
+/* font-family: 'STIX Two Text', sans-serif; */
+}
+
+.logo {
+  color: #2196f3;
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.78px;
+}
+
+.menu {
+  color: #212121;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.28px;
+}
+
+/* hero */
+.hero {
+  background-color: #2f303a;
+}
+
+.hero-title {
+font-family: 'STIX Two Text', sans-serif;
+  color: #fff;
+  text-align: center;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 1.36;
+  letter-spacing: 2.64px;
+  text-transform: uppercase;
 }
